@@ -15,9 +15,7 @@ body {
 .link {
   text-decoration: none;
 }
-.button {
-  cursor: pointer;
-}
+
 /*----------------------------- HEADER ---------------------------------*/
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -132,6 +130,10 @@ body {
   line-height: 1, 71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+}
+.footer-link:hover,
+.footer-link:focus {
+  color: var(--acent-color);
 }
 
 /* _____________________________________PORTFOLIO ___________________________*/
