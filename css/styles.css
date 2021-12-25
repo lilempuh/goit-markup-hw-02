@@ -134,7 +134,6 @@ img, a {
   margin: 0 auto;
   margin-bottom: 30px;
 }
-
 .hero-btn {
   display: flex;
   font-family: inherit;
@@ -240,7 +239,6 @@ margin-right: 30px;
   line-height: 1, 19;
   letter-spacing: 0.03em;
   color: var(--acent-color);
-
    }
 .footer-logo-second {
   color: var(--acent-second-color); 
